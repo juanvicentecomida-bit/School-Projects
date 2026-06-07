@@ -1,0 +1,23 @@
+===========================================
+   Tetris Seeded Run Log #1
+===========================================
+   Seed: 12345
+   Command: `.\Tetris.exe --seed 12345`
+
+First 14 pieces (2 bags):
+-Bag 1 (pieces 1-7): I-piece, S-piece, L-piece, O-piece, Z-piece, J-piece, T-piece
+-Bag 2 (pieces 8-14): T-piece, O-piece, Z-piece, J-piece, L-piece, S-piece, I-piece
+
+Gameplay:
+-Lines cleared: 59
+-Final score: 30691
+-Final level: 6
+
+-------------------------------------------
+   Notes
+-------------------------------------------
+
+- Bag system confirmed: All 7 pieces appeared once in Bag 1
+- Same sequence should repeat with same seed
+- No duplicate pieces within same bag
+- Top-out occurred at line 59 due to high stack

@@ -1,0 +1,10 @@
+^C:\USERS\USER\DOCUMENTS\TETRIS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/User/Documents/Tetris -BC:/Users/User/Documents/Tetris/build --check-stamp-file C:/Users/User/Documents/Tetris/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

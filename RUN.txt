@@ -1,0 +1,99 @@
+===============================================
+TETRIS - QUICK START GUIDE
+===============================================
+
+Build Instructions:
+-------------------
+cd build
+cmake ..
+cmake --build .
+
+
+Basic Run Commands:
+-------------------
+
+1. Default gameplay (20x10 board, Level 1):
+   Debug\tetris.exe
+
+2. Start at Level 5:
+   Debug\tetris.exe --level 5
+
+3. Custom board size (15 rows, 12 columns):
+   Debug\tetris.exe --rows 15 --cols 12
+
+4. Deterministic mode with seed (for testing):
+   Debug\tetris.exe --seed 12345
+
+5. View high scores:
+   Debug\tetris.exe --high-scores
+
+6. Show help:
+   Debug\tetris.exe --help
+
+
+Advanced Examples:
+------------------
+
+Challenge mode (Level 10, fast):
+   Debug\tetris.exe --level 10
+
+Reproducible test run:
+   Debug\tetris.exe --seed 99999 --level 1
+
+Large board:
+   Debug\tetris.exe --rows 25 --cols 15
+
+Combine multiple options:
+   Debug\tetris.exe --level 3 --seed 42069 --rows 20 --cols 12
+
+
+Game Controls:
+--------------
+A/D     - Move Left/Right
+W       - Rotate Clockwise
+E       - Rotate Counter-Clockwise
+S       - Soft Drop (faster descent + bonus)
+SPACE   - Hard Drop (instant placement + bonus)
+Z       - Hold Piece (save for later, once per drop)
+P       - Pause/Resume
+Q       - Quit to Game Over
+
+
+Configuration:
+--------------
+Edit config/tetris.json to customize:
+- Board dimensions
+- Starting level
+- Drop speeds
+- Scoring values
+- Key bindings
+- Visual settings (colors, ghost piece)
+
+CLI arguments override config file settings.
+
+
+Deterministic Testing:
+----------------------
+For reproducible gameplay (same piece sequence):
+
+Test Run 1:
+   Debug\tetris.exe --seed 12345
+
+Test Run 2:
+   Debug\tetris.exe --seed 67890
+
+Test Run 3:
+   Debug\tetris.exe --seed 99999 --level 5
+
+
+Notes:
+------
+- Minimum terminal size: 40 columns x 25 rows
+- Requires Windows 10+ for ANSI color support
+- High scores saved to scores.txt
+- Config file: config/tetris.json
+
+
+===============================================
+Enjoy playing Tetris!
+===============================================

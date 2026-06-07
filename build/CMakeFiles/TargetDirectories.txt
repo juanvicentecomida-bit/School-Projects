@@ -1,0 +1,8 @@
+C:/Users/User/Documents/Tetris/build/CMakeFiles/tetris.dir
+C:/Users/User/Documents/Tetris/build/CMakeFiles/run.dir
+C:/Users/User/Documents/Tetris/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/Tetris/build/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Documents/Tetris/build/CMakeFiles/list_install_components.dir
+C:/Users/User/Documents/Tetris/build/CMakeFiles/install.dir
+C:/Users/User/Documents/Tetris/build/CMakeFiles/install/local.dir
+C:/Users/User/Documents/Tetris/build/CMakeFiles/install/strip.dir

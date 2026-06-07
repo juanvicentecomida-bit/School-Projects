@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Tetris\src\main.cpp;C:\Users\User\Documents\Tetris\build\tetris.dir\Debug\main.obj
+C:\Users\User\Documents\Tetris\src\core\game.cpp;C:\Users\User\Documents\Tetris\build\tetris.dir\Debug\game.obj
+C:\Users\User\Documents\Tetris\src\core\game_state.cpp;C:\Users\User\Documents\Tetris\build\tetris.dir\Debug\game_state.obj
+C:\Users\User\Documents\Tetris\src\entities\tetromino.cpp;C:\Users\User\Documents\Tetris\build\tetris.dir\Debug\tetromino.obj
+C:\Users\User\Documents\Tetris\src\entities\playfield.cpp;C:\Users\User\Documents\Tetris\build\tetris.dir\Debug\playfield.obj
+C:\Users\User\Documents\Tetris\src\input\input_handler.cpp;C:\Users\User\Documents\Tetris\build\tetris.dir\Debug\input_handler.obj
+C:\Users\User\Documents\Tetris\src\scoring\score_manager.cpp;C:\Users\User\Documents\Tetris\build\tetris.dir\Debug\score_manager.obj
+C:\Users\User\Documents\Tetris\src\scoring\high_score.cpp;C:\Users\User\Documents\Tetris\build\tetris.dir\Debug\high_score.obj
+C:\Users\User\Documents\Tetris\src\rendering\renderer.cpp;C:\Users\User\Documents\Tetris\build\tetris.dir\Debug\renderer.obj
+C:\Users\User\Documents\Tetris\src\config\config_manager.cpp;C:\Users\User\Documents\Tetris\build\tetris.dir\Debug\config_manager.obj

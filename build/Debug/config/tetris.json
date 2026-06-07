@@ -1,0 +1,46 @@
+{
+    "_comment": "Tetris Configuration File - Edit values as needed",
+    "board": {
+        "_comment": "Board dimensions (rows: 10-30, cols: 8-20)",
+        "rows": 20,
+        "cols": 10
+    },
+    "gameplay": {
+        "_comment": "Start level (1-10), seed (0=random)",
+        "startLevel": 1,
+        "seed": 0
+    },
+    "timing": {
+        "_comment": "Frame delay in ms, drop speeds in frames",
+        "frameDelayMs": 50,
+        "initialDropSpeed": 48,
+        "dropSpeedDecrease": 5,
+        "minDropSpeed": 3,
+        "linesPerLevel": 10
+    },
+    "scoring": {
+        "_comment": "Base scores and drop bonuses",
+        "single": 100,
+        "double": 300,
+        "triple": 500,
+        "tetris": 800,
+        "softDropBonus": 1,
+        "hardDropBonus": 2
+    },
+    "controls": {
+        "_comment": "Single character keys for controls",
+        "left": "a",
+        "right": "d",
+        "rotateCW": "w",
+        "rotateCCW": "e",
+        "softDrop": "s",
+        "hardDrop": " ",
+        "pause": "p",
+        "quit": "q"
+    },
+    "display": {
+        "_comment": "Visual features (ghost piece, colors)",
+        "showGhost": true,
+        "useColor": true
+    }
+}

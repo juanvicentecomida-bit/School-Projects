@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/User/Documents/Tetris/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tetris.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -pedantic -o CMakeFiles\\tetris.dir\\src\\main.cpp.obj -c C:\\Users\\User\\Documents\\Tetris\\src\\main.cpp",
+  "file": "C:/Users/User/Documents/Tetris/src/main.cpp",
+  "output": "CMakeFiles/tetris.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Tetris/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tetris.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -pedantic -o CMakeFiles\\tetris.dir\\src\\core\\game.cpp.obj -c C:\\Users\\User\\Documents\\Tetris\\src\\core\\game.cpp",
+  "file": "C:/Users/User/Documents/Tetris/src/core/game.cpp",
+  "output": "CMakeFiles/tetris.dir/src/core/game.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Tetris/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tetris.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -pedantic -o CMakeFiles\\tetris.dir\\src\\core\\game_state.cpp.obj -c C:\\Users\\User\\Documents\\Tetris\\src\\core\\game_state.cpp",
+  "file": "C:/Users/User/Documents/Tetris/src/core/game_state.cpp",
+  "output": "CMakeFiles/tetris.dir/src/core/game_state.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Tetris/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tetris.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -pedantic -o CMakeFiles\\tetris.dir\\src\\entities\\tetromino.cpp.obj -c C:\\Users\\User\\Documents\\Tetris\\src\\entities\\tetromino.cpp",
+  "file": "C:/Users/User/Documents/Tetris/src/entities/tetromino.cpp",
+  "output": "CMakeFiles/tetris.dir/src/entities/tetromino.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Tetris/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tetris.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -pedantic -o CMakeFiles\\tetris.dir\\src\\entities\\playfield.cpp.obj -c C:\\Users\\User\\Documents\\Tetris\\src\\entities\\playfield.cpp",
+  "file": "C:/Users/User/Documents/Tetris/src/entities/playfield.cpp",
+  "output": "CMakeFiles/tetris.dir/src/entities/playfield.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Tetris/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tetris.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -pedantic -o CMakeFiles\\tetris.dir\\src\\input\\input_handler.cpp.obj -c C:\\Users\\User\\Documents\\Tetris\\src\\input\\input_handler.cpp",
+  "file": "C:/Users/User/Documents/Tetris/src/input/input_handler.cpp",
+  "output": "CMakeFiles/tetris.dir/src/input/input_handler.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Tetris/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tetris.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -pedantic -o CMakeFiles\\tetris.dir\\src\\scoring\\score_manager.cpp.obj -c C:\\Users\\User\\Documents\\Tetris\\src\\scoring\\score_manager.cpp",
+  "file": "C:/Users/User/Documents/Tetris/src/scoring/score_manager.cpp",
+  "output": "CMakeFiles/tetris.dir/src/scoring/score_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Tetris/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tetris.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -pedantic -o CMakeFiles\\tetris.dir\\src\\scoring\\high_score.cpp.obj -c C:\\Users\\User\\Documents\\Tetris\\src\\scoring\\high_score.cpp",
+  "file": "C:/Users/User/Documents/Tetris/src/scoring/high_score.cpp",
+  "output": "CMakeFiles/tetris.dir/src/scoring/high_score.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Tetris/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tetris.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -pedantic -o CMakeFiles\\tetris.dir\\src\\rendering\\renderer.cpp.obj -c C:\\Users\\User\\Documents\\Tetris\\src\\rendering\\renderer.cpp",
+  "file": "C:/Users/User/Documents/Tetris/src/rendering/renderer.cpp",
+  "output": "CMakeFiles/tetris.dir/src/rendering/renderer.cpp.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/Tetris/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tetris.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -pedantic -o CMakeFiles\\tetris.dir\\src\\config\\config_manager.cpp.obj -c C:\\Users\\User\\Documents\\Tetris\\src\\config\\config_manager.cpp",
+  "file": "C:/Users/User/Documents/Tetris/src/config/config_manager.cpp",
+  "output": "CMakeFiles/tetris.dir/src/config/config_manager.cpp.obj"
+}
+]
