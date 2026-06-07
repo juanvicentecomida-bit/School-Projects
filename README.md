@@ -1,7 +1,7 @@
 Tetris - Console Edition (C++)
 
 Course: CC104 - Data Structures and Algorithm
-Group: Monozoid  
+Student: Jhon Vincent Comida  
 Platform: Windows (Console/ASCII)  
 Language: C++14  
 
@@ -420,8 +420,7 @@ References
 
 Credits
 
-Group:
-Monozoid
+Student: Jhon Vincent A.Comida
 
 Course: CC104 - Data Structures and Algorithms    
 Instructor: Ralfh Edwin Panti 
